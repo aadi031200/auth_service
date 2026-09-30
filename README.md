@@ -51,7 +51,7 @@ Supports **JWT-based authentication** with **username/password login**, as well 
 ## 📁 Project Structure
 
 ```
-auth-app-boot-react/
+auth-app
 │
 ├── backend/                  # Spring Boot Backend
 │   ├── src/
@@ -270,18 +270,13 @@ auth-app-boot-react/
 ---
 
 ## 🧑‍💻 Author
-
-**Learn Code With Durgesh**  
-Founder — Substring Technologies Pvt. Ltd.  
-📺 [YouTube: LearnCodeWithDurgesh](https://www.youtube.com/@LearnCodeWithDurgesh)  
-🌐 [Website: substring.tech](https://learncodewithdurgesh.com)  
-📬 [Telegram: @learncodewithdurgesh](https://t.me/learncodewithdurgesh)
+ ADITYA CHOURASIYA
 
 ---
 
 ## 🪪 License
 
-This project is licensed under the **MIT License**.  
+This project is for educational/portfolio purposes.  
 You are free to use, modify, and distribute it for learning and educational purposes.
 
 ---
